@@ -12,3 +12,8 @@
 #aside-content .card-widget {
   border-radius: 20px;
   }
+
+  /*文章页目录美化*/
+#aside-content .card-widget {
+  padding: 2rem 1.2rem; /*前者为上下边距，后者为左右边距*/
+}
