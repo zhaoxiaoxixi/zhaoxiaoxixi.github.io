@@ -1,3 +1,14 @@
 #web_bg {
   background: linear-gradient(180deg,#fff1eb,#ace0f9)
 }
+
+/*GitHub开源圆角*/
+#card-info-btn {
+  border-radius: 7px;
+  overflow: hidden;
+}
+
+`/*文章页目录卡片圆角*/`
+#aside-content .card-widget {
+  border-radius: 20px;
+  }
