@@ -238,3 +238,8 @@
 #aside-content #card-toc .toc-content .toc-link:not(.active) span:hover {
   color: var(--heo-lighttext);
 }
+
+.loading-img {
+  background: url(https://s1.ax1x.com/2023/02/26/pp9J1DH.jpg) no-repeat center center;
+  background-size: cover;
+}
