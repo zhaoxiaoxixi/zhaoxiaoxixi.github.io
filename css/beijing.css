@@ -229,7 +229,7 @@
   opacity: 0.6;
   cursor: pointer;
   filter: blur(1px);
-  transition: 0.3s;
+  transition: 1s;
 }
 #aside-content #card-toc:hover .toc-content .toc-link:not(.active) span {
   filter: blur(0px);
